@@ -9,6 +9,11 @@
 </p>
 
 <p align="center">
+    <a href="https://github.com/nickhitos" target="_blank"><img alt="nickhitos" src="https://badges.pufler.dev/visits/nickhitos/nickhitos?logo=GitHub&label=visits&color=8e918f&logoColor=white&style=for-the-badge"/></a>
+    <a href="https://github.com/nickhitos/nickhitos" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/nickhitos/nickhitos?label=profile%20updated&style=for-the-badge&color=8e918f"></a>
+</p>
+
+<p align="center">
     <a href="https://github.com/nickhitos" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
